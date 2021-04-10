@@ -7,3 +7,4 @@
 	path = BridgeDbR
 	url = https://github.com/bridgedb/bridgedbr
 	shallow = true
+	registered = true
